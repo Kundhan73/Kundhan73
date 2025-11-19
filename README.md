@@ -31,9 +31,19 @@ I break things just to rebuild them better — especially neural networks 😎
 ---
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kundhan-vudutha-299516321/)  
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/KundhanVudutha)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kundhanvudutha9@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/kundhan-vudutha-299516321/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/KundhanVudutha">
+    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:kundhanvudutha9@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 
 ---
