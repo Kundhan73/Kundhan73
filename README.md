@@ -1,6 +1,7 @@
 ## Hi there,I'm Kundhan Vudutha 👋
 # 💫 About Me:
-🚀 I'm currently working on<br><br>Building intelligent systems using Deep Learning, NLP, and Computer Vision<br><br>Developing scalable AI-powered web applications<br><br>Research projects in Generative AI and Large Language Models<br><br>🤝 I'm looking to collaborate on<br><br>Open-source AI frameworks, ML model optimization, and AI automation tools<br><br>Innovative ideas involving predictive analytics, chatbots, or model deployment<br><br>🧠 I'm looking for help with<br><br>Advanced model compression, RAG systems, & multimodal learning<br><br>Publishing research papers in AI, ML, or Data Science<br><br>🌱 I'm currently learning<br><br>MLOps, Docker, Kubernetes, and cloud deployment on AWS/GCP<br><br>Cutting-edge AI architectures like Transformers, Diffusion Models, and RLHF<br><br>💬 Ask me about<br><br>Python, Machine Learning, Deep Learning<br><br>AI project architecture<br><br>GitHub optimization, clean coding, & project structuring<br><br>How to build production-grade ML pipelines<br><br>⚡ Fun fact<br><br>I break things just to rebuild them better — especially neural networks 😎
+# 💫 About Me:
+🚀 I'm currently working on<br>.Building intelligent systems using Deep Learning, NLP, and Computer Vision<br>.Developing scalable AI-powered web applications<br>.Research projects in Generative AI and Large Language Models<br>🤝 I'm looking to collaborate on<br>.Open-source AI frameworks, ML model optimization, and AI automation tools<br>.Innovative ideas involving predictive analytics, chatbots, or model deployment<br>🧠 I'm looking for help with<br>.Advanced model compression, RAG systems, & multimodal learning<br>.Publishing research papers in AI, ML, or Data Science<br>🌱 I'm currently learning<br>.MLOps, Docker, Kubernetes, and cloud deployment on AWS/GCP<br>.Cutting-edge AI architectures like Transformers, Diffusion Models, and RLHF<br>💬 Ask me about<br>.Python, Machine Learning, Deep Learning<br>.AI project architecture<br>.GitHub optimization, clean coding, & project structuring<br>.Building production-grade ML pipelines<br>⚡ Fun fact<br>.I break things just to rebuild them better — especially neural networks 😎<br>
 
 
 ## 🌐 Socials:
@@ -13,4 +14,3 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Kundhan73&theme=codeSTACKr&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kundhan73&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
