@@ -10,14 +10,6 @@
 • Open-source AI frameworks, ML model optimization, and AI automation tools  
 • Ideas involving predictive analytics, chatbots, or model deployment  
 
-🧠 **I'm looking for help with**  
-• Advanced model compression, RAG systems, and multimodal learning  
-• Publishing research papers in AI, ML, or Data Science  
-
-🌱 **I'm currently learning**  
-• MLOps, Docker, Kubernetes, and cloud deployment (AWS/GCP)  
-• Transformers, Diffusion Models, RLHF, and other cutting-edge architectures  
-
 💬 **Ask me about**  
 • Python, Machine Learning, Deep Learning  
 • AI project architecture  
@@ -55,15 +47,12 @@ I break things just to rebuild them better — especially neural networks 😎
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Perl](https://img.shields.io/badge/Perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Angular.js](https://img.shields.io/badge/Angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
