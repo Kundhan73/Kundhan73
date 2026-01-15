@@ -67,11 +67,3 @@ I break things just to rebuild them better — especially neural networks 😎
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-
----
-
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Kundhan73&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=Kundhan73&theme=codeSTACKr&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kundhan73&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
