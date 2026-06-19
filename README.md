@@ -1,24 +1,20 @@
-## Hi there, I'm Kundhan Vudutha 👋
+## Hi there, I'm Kundhan Vudutha 
 
-# 💫 About Me
-🚀 **I'm currently working on**  
+#  About Me
+**I'm currently working on**  
 • Building intelligent systems using Deep Learning, NLP, and Computer Vision  
-• Developing scalable AI-powered web applications  
-• Research projects in Generative AI and Large Language Models  
+• Developing scalable AI-powered web applications   
 
-🤝 **I'm looking to collaborate on**  
+**I'm looking to collaborate on**  
 • Open-source AI frameworks, ML model optimization, and AI automation tools  
 • Ideas involving predictive analytics, chatbots, or model deployment  
 
-💬 **Ask me about**  
+**Ask me about**  
 • Python, Machine Learning, Deep Learning  
 • AI project architecture  
 • Clean coding, GitHub optimization, and project structuring  
 • Building production-grade ML pipelines  
-
-⚡ **Fun fact**  
-I break things just to rebuild them better — especially neural networks 😎  
-
+ 
 
 ---
 
@@ -42,13 +38,10 @@ I break things just to rebuild them better — especially neural networks 😎
 
 # 💻 Tech Stack
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -58,7 +51,6 @@ I break things just to rebuild them better — especially neural networks 😎
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![MLflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
